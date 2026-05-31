@@ -1,0 +1,7 @@
+{
+  "classifier_layer": 30,
+  "n_scorsese_scenes": 80,
+  "n_spielberg_scenes": 80,
+  "cv_accuracy_mean": 0.975,
+  "cv_accuracy_std": 0.0234
+}

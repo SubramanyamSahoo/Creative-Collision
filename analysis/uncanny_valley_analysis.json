@@ -1,0 +1,27 @@
+[
+  {
+    "alpha": 0.0,
+    "cliff_coefficient": 1.5,
+    "perplexity_jump": 8.3
+  },
+  {
+    "alpha": 0.25,
+    "cliff_coefficient": 2.0,
+    "perplexity_jump": 4.22
+  },
+  {
+    "alpha": 0.5,
+    "cliff_coefficient": 2.0,
+    "perplexity_jump": 5.54
+  },
+  {
+    "alpha": 0.75,
+    "cliff_coefficient": 2.0,
+    "perplexity_jump": 8.99
+  },
+  {
+    "alpha": 1.0,
+    "cliff_coefficient": 1.5,
+    "perplexity_jump": 18.13
+  }
+]

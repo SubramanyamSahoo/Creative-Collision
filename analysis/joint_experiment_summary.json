@@ -1,0 +1,20 @@
+{
+  "exp1_max_valence_shift_alpha": 0.5,
+  "exp2_coherence_cliff_coeff": 1.5,
+  "exp3_peak_layers": {
+    "scorsese": {
+      "peak_layer": 28,
+      "peak_valence": -0.52,
+      "layer_depth_pct": 0.7,
+      "interpretation": "late (reasoning)"
+    },
+    "spielberg": {
+      "peak_layer": 28,
+      "peak_valence": 0.441,
+      "layer_depth_pct": 0.7,
+      "interpretation": "late (reasoning)"
+    }
+  },
+  "exp4_dominant_at_equal_collision": "spielberg",
+  "exp4_dominance_margin": 1.0
+}

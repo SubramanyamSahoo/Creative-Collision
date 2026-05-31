@@ -1,0 +1,22 @@
+{
+  "anova_moral_valence_vs_alpha": {
+    "F": 0.1628,
+    "p": 0.956692,
+    "significant_at_0.05": false
+  },
+  "anova_perplexity_vs_coeff": {
+    "F": 26.541,
+    "p": 0.0,
+    "significant_at_0.05": true
+  },
+  "optimal_collision": {
+    "alpha": 0.0,
+    "steering_coeff": 0.5,
+    "moral_valence": -1.0,
+    "perplexity": 1.6261
+  },
+  "pearson_valence_vs_lexical_diversity": {
+    "r": -0.4401,
+    "p": 5e-06
+  }
+}

@@ -1,0 +1,4 @@
+director,n_scenes,mean_chars,std_chars,min_chars,max_chars
+scorsese,80,3315,3860,119,15992
+spielberg,80,1144,1416,102,7708
+neutral,80,1237,1566,111,9635

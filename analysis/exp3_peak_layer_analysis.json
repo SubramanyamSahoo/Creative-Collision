@@ -1,0 +1,14 @@
+{
+  "scorsese": {
+    "peak_layer": 28,
+    "peak_valence": -0.52,
+    "layer_depth_pct": 0.7,
+    "interpretation": "late (reasoning)"
+  },
+  "spielberg": {
+    "peak_layer": 28,
+    "peak_valence": 0.441,
+    "layer_depth_pct": 0.7,
+    "interpretation": "late (reasoning)"
+  }
+}
